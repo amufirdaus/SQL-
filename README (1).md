@@ -13,7 +13,9 @@ Integration of data from diverse sources for comprehensive analysis.
 Proficiency in SQL data analysis and problem-solving.
 ## Problems
 Some of the questions are as :
+
 I have attached a pdf file consisiting solution of questions given below.
+
 Click here to get pdf: [Download PDF](https://github.com/amufirdaus/SQL-/blob/main/sql_ss_pdf.pdf)
 
 Q1. My partner and I want to come by each of the stores in person and meet the managers. 
