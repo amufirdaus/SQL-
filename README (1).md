@@ -13,6 +13,7 @@ Integration of data from diverse sources for comprehensive analysis.
 Proficiency in SQL data analysis and problem-solving.
 ## Problems
 Some of the questions are as :
+
 Q1. My partner and I want to come by each of the stores in person and meet the managers. 
 Please send over the managers’ names at each store, with the full address 
 of each property
